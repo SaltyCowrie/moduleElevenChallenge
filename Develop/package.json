@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "express.js": "^1.0.0"
+    "express.js": "^1.0.0",
+    "netlify-cli": "^17.29.0"
   }
 }
